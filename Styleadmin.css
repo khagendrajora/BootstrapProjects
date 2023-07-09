@@ -1,0 +1,14 @@
+nav{
+    display: flex;
+  background-color: blue;
+ 
+}
+.container-fluid{
+    display: flex;
+    justify-content: space-between;
+}
+.search-bar{
+  
+ padding: 10px;
+ 
+}

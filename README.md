@@ -1,5 +1,3 @@
 # CV
-# BootstrapProjects
-# BootstrapProjects
-# BootstrapProjects
-# BootstrapProjects
+# Deployed URL
+ https://khagendrajora.github.io/BootstrapProjects/
